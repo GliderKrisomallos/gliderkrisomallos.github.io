@@ -1,0 +1,5 @@
+# Google AdMob (Focorizon)
+google.com, pub-4258869681401927, DIRECT, f08c47fec0942fa0
+
+# Google AdMob (WordsParlor)
+google.com, pub-4258869681401927, DIRECT, f08c47fec0942fa0
